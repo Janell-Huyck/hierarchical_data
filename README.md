@@ -12,3 +12,4 @@ This project is written in Django.  A virtual environment is provided by Poetry.
 
 The project should start up automatically in your browser, hosted by your local server, at http://127.0.0.1:8000/.
 
+Shout out to https://django-mptt.readthedocs.io/en/latest/tutorial.html for help in getting the data to display in my template :)
